@@ -1,0 +1,13 @@
+streamlit
+altair
+plotly
+
+# EDA Pkgs
+pandas
+numpy
+datetime
+
+# Utils
+joblib 
+scikit-learn
+plotly.express
